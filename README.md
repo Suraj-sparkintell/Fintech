@@ -172,6 +172,5 @@ Open a web browser and navigate to http://localhost:5000
 Author:
 Suraj I hope you find inspiration and valuable insights from exploring the Twitter Clone project.
 
-If you have any questions or suggestions, feel free to reach out to our team at dstanilevichi@gmail.com.
 
 Happy coding! 🚀
