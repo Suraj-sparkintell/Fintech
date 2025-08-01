@@ -56,7 +56,7 @@ Access Your Application: Once both the server and client are running:
 
 Open a web browser and navigate to http://localhost:5000
 Author:
-Daria Stanilevici I hope you find inspiration and valuable insights from exploring the Twitter Clone project.
+Suraj I hope you find inspiration and valuable insights from exploring the Twitter Clone project.
 
 If you have any questions or suggestions, feel free to reach out to our team at dstanilevichi@gmail.com.
 
