@@ -1,0 +1,17 @@
+#spring:
+#  application:
+#    name: AUTH-SERVICE
+#  datasource:
+#    url: jdbc:h2:mem:telusko
+#    driverClassName: org.h2.Driver
+#
+#
+#
+#
+#server:
+#  port: 9898
+#
+#
+#  spring:
+#    datasource:
+#      url=jdbc:h2:mem:telusko:
