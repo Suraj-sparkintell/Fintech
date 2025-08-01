@@ -5,11 +5,11 @@ Features
 User Registration: New users can sign up with unique usernames and emails.
 Authentication: Secure login and logout functionality.
 Posts: Users can create, view, and interact with posts. Posts are visible to unregistered users too, but to make post they you the authentication.
-Retweeting: Share and retweet posts with ease.
+
 
 User Stories
 As a new user
-So that I can use Twitter
+So that I can use application
 I want to be able to register for an account
 
 As a registered user
